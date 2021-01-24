@@ -4,7 +4,7 @@
     "description": "Welcome to the dark side\nby nebulr - v1.2.0",
     "name": "Default Dark Mode",
     "uuid": "d466bdfa-4c6e-11eb-aeef-df613d32abca",
-    "version": [1, 2, 0],
+    "version": [1, 16, 200],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
@@ -12,7 +12,13 @@
       "description": "Default Dark Mode",
       "type": "resources",
       "uuid": "d806272a-4c6e-11eb-842b-2bb74037b317",
-      "version": [1, 2, 0]
+      "version": [1, 16, 200]
     }
-  ]
+  ],
+  "metadata": {
+    "authors": [
+      "nebulr"
+    ],
+    "url": "https://github.com/xnebulr"
+  }
 }
